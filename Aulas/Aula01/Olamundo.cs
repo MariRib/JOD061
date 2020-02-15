@@ -1,6 +1,10 @@
 using System;
 
-Class programa {
+Class programa{
+
 // todo implementar 
 
+ int main() {
+ }
+    
 }
