@@ -1,6 +1,7 @@
 using System;
 
 Class programa {
- int main()
+ int main() {
+ }
     
 }
